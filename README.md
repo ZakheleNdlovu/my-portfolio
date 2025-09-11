@@ -10,8 +10,6 @@ Welcome to my personal portfolio repository! This project showcases my work, ski
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
